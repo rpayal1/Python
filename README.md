@@ -1,2 +1,2 @@
 # Python
-My work with Python in my college
+My work with Python.
